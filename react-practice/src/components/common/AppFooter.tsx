@@ -9,7 +9,7 @@ function AppFooter() {
           <div className="flex flex-col items-start gap-4">
             <div className="flex flex-col items-start">
               <h3 className="scroll m-3 text-2xl font-semibold tracking-tight">
-                나의 리액트 공부
+                나의 리액트 연습
               </h3>
               <h3 className="scroll m-3 text-2xl font-semibold tracking-tight">
                 프론트엔드 개발자가 되보자!
