@@ -1,11 +1,17 @@
 ## React + Vite
 ### 🌍 프로젝트 소개 
-shadncn/ui를 이용한 [mingo](https://www.mingo.team/) 사이트 클론 코딩입니다.
+#### shadncn/ui를 이용한 [mingo](https://www.mingo.team/) 사이트 클론 코딩입니다.
 
 ---
 
 ### ✍️ 기록
-#### 개발은 현재 진행 중 ...
+
+### ⚙️ 개발 현황
+#### 현재 진행중 ...
+- 2025.09.06 ~
+
+---
+
 #### 📁 폴더 생성 [reaat-practice ]
 - 2025.09.06
 
