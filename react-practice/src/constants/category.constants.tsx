@@ -36,7 +36,7 @@ export const CLASS_CATEGORY = [
   },
 ];
 
-// 토픽 카테고리
+// 토픽 작성 페이지 카테고리
 export const TOPIC_CATEGORY = [
   { id: 1, label: "인문학", category: "humanity" },
   { id: 2, label: "스타트업", category: "start-up" },
