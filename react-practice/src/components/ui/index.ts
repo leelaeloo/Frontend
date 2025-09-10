@@ -26,3 +26,19 @@ export {
   FormMessage,
   FormField,
 } from "./form";
+
+export { Checkbox } from "./checkbox";
+
+export { Avatar, AvatarImage, AvatarFallback } from "./avatar";
+
+export {
+  Card,
+  CardHeader,
+  CardFooter,
+  CardTitle,
+  CardAction,
+  CardDescription,
+  CardContent,
+} from "./card";
+
+export { Badge, badgeVariants } from "./badge";

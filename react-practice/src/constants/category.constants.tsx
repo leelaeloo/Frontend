@@ -9,43 +9,40 @@ import {
   Rocket,
 } from "lucide-react";
 
-// 메인 카테고리
+// 토픽 인사이트 페이지 카테고리
 export const CLASS_CATEGORY = [
   { id: 1, label: "전체", category: "", icon: <List /> },
-  { id: 2, label: "카테고리1", category: "category1", icon: <Lightbulb /> },
-  { id: 3, label: "카테고리2", category: "category2", icon: <Rocket /> },
-  { id: 4, label: "카테고리3", category: "category3", icon: <CodeXml /> },
-  { id: 5, label: "카테고리4", category: "category4", icon: <Goal /> },
+  { id: 2, label: "인문학", category: "humanity", icon: <Lightbulb /> },
+  { id: 3, label: "스타트업", category: "start-up", icon: <Rocket /> },
+  { id: 4, label: "IT·프로그래밍", category: "programming", icon: <CodeXml /> },
+  { id: 5, label: "서비스·전략 기획", category: "planning", icon: <Goal /> },
   {
-    id: 5,
-    label: "카테고리5",
-    category: "category5",
+    id: 6,
+    label: "마케팅",
+    category: "marketing",
     icon: <ChartNoAxesCombined />,
   },
   {
     id: 7,
-    label: "카테고리6",
-    category: "category6",
+    label: "디자인·일러스트",
+    category: "design",
     icon: <DraftingCompass />,
   },
-  { id: 8, label: "카테고리7", category: "category7", icon: <Footprints /> },
+  {
+    id: 8,
+    label: "자기계발",
+    category: "self-development",
+    icon: <Footprints />,
+  },
 ];
 
 // 토픽 카테고리
 export const TOPIC_CATEGORY = [
-  { id: 1, label: "전체", category: "" },
-  { id: 2, label: "카테고리1", category: "category1" },
-  { id: 3, label: "카테고리2", category: "category2" },
-  { id: 4, label: "카테고리3", category: "category3" },
-  { id: 5, label: "카테고리4", category: "category4" },
-  {
-    id: 6,
-    label: "카테고리5",
-    category: "category5",
-  },
-  {
-    id: 7,
-    label: "카테고리6",
-    category: "category6",
-  },
+  { id: 1, label: "인문학", category: "humanity" },
+  { id: 2, label: "스타트업", category: "start-up" },
+  { id: 3, label: "IT·프로그래밍", category: "programming" },
+  { id: 4, label: "서비스·전략 기획", category: "planning" },
+  { id: 5, label: "마케팅", category: "marketing" },
+  { id: 6, label: "디자인·일러스트", category: "design" },
+  { id: 7, label: "자기계발", category: "self-development" },
 ];
